@@ -28,8 +28,4 @@ should include "done," "pending," "in progress," and "completed."
 ○ Allow users to update their profile information, such as name, email, and
 password.
 ○ Ensure that profile updates are only accessible to the authenticated user.
-Assignment Submission Guidelines:
-1) Submit your Github Repository link.
-2) Submit your Deployed link.
-3) Submit your loom video recording explaining about your
-project.
+
